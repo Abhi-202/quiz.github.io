@@ -4,7 +4,7 @@
 
 #navbar{
     flex-direction: column;
-    width: 100%;
+    width: 106%;
 }
 #navbar ul li a{
         font-size: 18px;
