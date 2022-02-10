@@ -1,0 +1,84 @@
+/* *{
+    width: 100px;
+} */
+
+#navbar{
+    flex-direction: column;
+    width: 100%;
+}
+#navbar ul li a{
+    font-size: 1.5rem;
+    padding: 0px 7px;
+    font-weight: 600;
+    padding-bottom: 7px;
+  }
+  #home{
+    justify-content: center;
+    align-items: center;
+  }
+  #home::before{
+    height: 670px;
+  }
+  /* .last ul li a {
+  padding: 4px 48px;
+  } */
+  .card{
+    width: 73%;
+    margin: 0px 31px 0px 0;
+  }
+  .last{
+    display: grid;
+  }
+  footer{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+    bottom: -129px;
+    background-color: #353557;
+    height: 548px;
+     /* padding: 9px 20px; */
+  }
+  .last ul li {
+    display: flex;
+    margin: -38px 44px;
+    font-size: 1.2rem;
+    list-style: none;
+    text-decoration: none;}
+
+    .last ul li a {
+      display: block;
+      list-style: none;
+      text-decoration: none;
+      padding: 10px 108px;
+      margin: 140px -10px -24px -22px;
+      border-radius: 24px;
+      align-items: center;
+      /* height: -8px; */
+      color: white;
+      /* background-color: blue; */
+      justify-content: center;}
+
+      .last ul {
+        display: grid;
+        margin: -173px 24px;}
+
+        .text-center {
+          color: black;
+          font-size: 24px;
+          font-weight: 900;
+          align-items: center;
+          justify-content: center;
+          margin: -11px -4px -1px 0;
+      }
+      .container {
+        margin: 40px 0 0 0;}
+
+        #fuck {
+          display: flex;
+          align-items: center;
+          justify-content: center;
+          position: relative;
+          bottom: -162px;
+          background-color: #353557;
+          height: 103px;}
