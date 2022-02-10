@@ -9,7 +9,7 @@
   align-items: center;
   position: relative;
   /* margin: -39px; */
-  width: 100%;
+  width: 106%;
   top: -33px;
 }
 
@@ -153,6 +153,7 @@ footer{
   background-color: #338d94;
     height: 60px;
     /* padding: 9px 20px; */
+  width: 106%;
 }
 .last ul{
   display: flex;
